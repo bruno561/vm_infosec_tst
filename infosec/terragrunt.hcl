@@ -17,5 +17,5 @@ inputs = {
     disk_type = "pd-standard"
     disk_size = "50"
     image = "windows-server-2019-dc-v20220812"
-    external_ip = true
+    external_ip = false
 }
